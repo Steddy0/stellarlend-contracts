@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-2008-github-workflows-ci-cd-yml-only-builds-lints",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-2008-github-workflows-ci-cd-yml-only-builds-lints": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-2008-github-workflows-ci-cd-yml-only-builds-lints",
+    "origin"
+  ]
+}
